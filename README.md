@@ -21,15 +21,15 @@
 ## Some stuff  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on finishing school and varius other stuff.  
+- 🔭 I’m currently Trying to finishing school and am doing varius other stuff.  
   
 
-- 🌱 I’m currently learning C#  
-
+- 🌱 I’m currently learning C# and other stuff.
+</table>
 <br/>  
 
 
-## Languages and Tools(Not really good at anything but can kinda do most of it.)
+## Languages and Tools(Still suck with anything, just less with these.)
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>   
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
