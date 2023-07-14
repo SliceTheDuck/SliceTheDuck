@@ -11,15 +11,14 @@
 
 
 
-### Glad you're here!  
-I am a German vocational student. \
-Currently learning informational technology in school.  
+### This is Me:
+17 year old, German vocational student. Who is learning informational technology in school.  
   
 
 <br/>  
 
 
-## Rapidfire  
+## Some stuff  
 <table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working on finishing school and varius other stuff.  
@@ -27,17 +26,10 @@ Currently learning informational technology in school.
 
 - 🌱 I’m currently learning C#  
 
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
-
 <br/>  
 
 
-## Languages and Tools  
+## Languages and Tools(Not really good at anything but can kinda do most of it.)
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>   
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
