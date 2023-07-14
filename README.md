@@ -12,7 +12,9 @@
 
 
 ### This is Me:
-17 year old \n German vocational student \n Learning informational technology in school.  
+17 years old\
+German vocational student\
+Learning informational technology in school.  
   
 
 <br/>  
@@ -67,3 +69,5 @@
 <br/>  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=SliceTheDuck&&style=flat-square)  
+
+I hate markdown ^^
