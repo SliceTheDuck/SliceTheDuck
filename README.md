@@ -12,7 +12,7 @@
 
 
 ### This is Me:
-17 year old, German vocational student. Who is learning informational technology in school.  
+17 year old \n German vocational student \n Learning informational technology in school.  
   
 
 <br/>  
