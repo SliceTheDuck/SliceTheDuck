@@ -23,10 +23,8 @@ Learning informational technology in school.
 ## Some stuff  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently Trying to finishing school and am doing varius other stuff.  
+- 🔭 I’m currently Trying to finishing school and am doing various other stuff.  
   
-
-- 🌱 I’m currently learning C# and other stuff.
 </table>
 <br/>  
 
