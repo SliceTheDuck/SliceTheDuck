@@ -13,7 +13,7 @@
 
 ### This is Me:
 18 years old\
-German vocational student\
+German student\
 Learning informational technology in school.  
   
 
