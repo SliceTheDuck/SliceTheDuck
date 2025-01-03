@@ -14,18 +14,8 @@
 ### This is Me:
 18 years old\
 German student\
-Learning informational technology in school.  
-  
+I do them IT's in school.
 
-<br/>  
-
-
-## Some stuff  
-<table><tr><td valign="top" width="50%">
-
-- 🔭 I’m currently Trying to finishing school and am doing various other stuff.  
-  
-</table>
 <br/>  
 
 
@@ -44,25 +34,7 @@ Learning informational technology in school.
 <a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="25" /></a>  
 <a href="https://mariadb.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="25" /></a>  
 <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="25" /></a>  
-</div>  
-
-<br/>  
-
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=SliceTheDuck&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SliceTheDuck&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
-
-  
+</div>
 
 <br/>  
 
